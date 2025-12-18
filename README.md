@@ -1,3 +1,6 @@
+
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+
 GeoMarX is designed to empower geospatial marking and annotation of complex targets in urban environments. GeoMarX addresses the need for precise marking and annotation by providing a user-friendly platform equipped with integrated mapping functionalities and annotation tools as well as leveraging cutting-edge machine learning technologies, which enables users to accurately mark specific points/areas of interest and annotate them with rich contextual information to further facilitate efficient data management and decision-making processes in urban planning, transportation management, environmental monitoring,and other urban-related domains.
 
 # Requirements
@@ -138,4 +141,6 @@ Geospatial marking and annotation require a different approach to workload divis
 Our tools facilitate this large-scale effort through two key features. First, we provide support for auxiliary geographic coordinate systems, such as uniform grid systems or administrative boundaries. This allows for a structured division of labor, with marked units highlighted to inform annotators of progress and help them identify starting points quickly. Second, our tool's distributed B/S architecture enables multiple users to work concurrently. With the back-end hosted on a server and accessible through a browser interface, users can collaborate in real-time via network connections, supporting distributed teamwork effectively.
 
 # Demo video
-For details about how to use GeoMarX, please refer to the demo video [here](https://www.youtube.com/watch?v=LipSBH0jFGw).
+For details about how to use GeoMarX, please refer to the demo video [here](https://youtu.be/74q38nKdkd0).
+A backup version is also available [here](https://drive.google.com/file/d/1t7G4zthimqIJ71S8xDk1jbKEYavk0vDD/view?usp=sharing).
+
